@@ -7,8 +7,7 @@ a 604-member synthetic hurricane ensemble.
 Authors: Jiahang He, Ian Sue Wing.
 
 
-## Warning:
-The entire script was executed on a multi-node compute cluster featuring a cumulative system memory of approximately 500 GB, with an execution duration varying between 12 and 36 hours depending on memory allocation.
+Note: The entire script was executed on a multi-node compute cluster featuring a cumulative system memory of approximately 500 GB, with an execution duration varying between 12 and 36 hours depending on memory allocation.
 ---
 
 ## Repository layout
