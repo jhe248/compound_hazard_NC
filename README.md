@@ -1,4 +1,4 @@
-# Compound hazard exposure, loss and insurance in North Carolina
+# Replication Code for: Compound hazard exposure, loss and insurance in North Carolina
 
 Code for the analysis of compound hurricane hazards — wind, storm surge and
 inland flood — over North Carolina's single-family (RES1) housing stock, across
